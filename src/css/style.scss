@@ -1,0 +1,27 @@
+.local {
+  max-width: 100%;
+  width: 100%;
+  font-family: 'Avenir Next';
+  padding: 2rem;
+  border: 1px solid red;
+  .inner {
+    max-width: 1200px;
+    width: 100%;
+    background: #fff;
+    margin: auto;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #421c08;
+    font-weight: bold;
+  }
+
+  .entry-form {
+    padding: 1rem 0;
+  }
+}
